@@ -20,3 +20,5 @@ $ setsid unity
 ## Usage
 
 You can either open the dashboard and click the php icon at the bottom or you can go directly to the php lens by holding down the Super (windows/cmd) key and pressing P.
+
+If you click on any of the search results, you will be taken directly to the documentation of that function on the php website.
